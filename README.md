@@ -10,7 +10,7 @@ This Dockerfile will be very usefull when you want to use Valgrind. As you may h
 > Prerequisite : Run the docker app present in your Mac (or MSC)
 
 ```bash
-$ git clone https://github.com/grouville/valgrind_42.git
+$ git clone https://github.com/mdabir1203/valgrind_42.git
 $ cd valgrind_42
 # This command creates the image with the latest Ubuntu. You'll only have to run this command the first time !
 $ docker build -t $(whoami)/valgrind .
@@ -44,3 +44,5 @@ $ xhost + 127.0.0.1
 ```bash
 $ export DISPLAY=host.docker.internal:0
 ```
+>> Addition :
+1. Clion with path defined
