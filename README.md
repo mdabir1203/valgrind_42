@@ -50,4 +50,5 @@ $ export DISPLAY=host.docker.internal:0
 1. Clion with path defined
 
 #Acknowledgement
-Thanks to the original creator : @grouville 
+Thanks to the original creator : 
+           ## grouville 
