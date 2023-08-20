@@ -1,4 +1,4 @@
-# valgrind_42 Clion Version
+# Reversing valgrind_42 Clion Version
 Dockerfile that includes Valgrind, Vim and Clang for corrections + Clion as an IDE
 
 
